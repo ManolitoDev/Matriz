@@ -13,6 +13,7 @@ public class Matriz2 {
             }
             System.out.println(".");
             System.out.println("Thanks");
+            System.out.println(";)");
            }
 }
 }
